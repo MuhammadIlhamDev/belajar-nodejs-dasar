@@ -1,0 +1,8 @@
+Hello NodeJS
+Ups
+┌───────────┬────────────┐
+│ (index)   │ Values     │
+├───────────┼────────────┤
+│ firstName │ 'Muhammad' │
+│ lastName  │ 'Ilham'    │
+└───────────┴────────────┘
